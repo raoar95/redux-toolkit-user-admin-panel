@@ -1,1 +1,1 @@
-Redux Toolkit User Admin Panel
+Simple Redux Toolkit User Admin Panel
